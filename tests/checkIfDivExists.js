@@ -4,4 +4,8 @@ describe('getDiv', function() {
     it('Should exist', function() {
         expect(d.nodeName).toBe('DIV');
     });
+
+    it('Should exist', function() {
+        expect(d.nodeName).toBe('DIV');
+    });
 });
