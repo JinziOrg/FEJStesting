@@ -15,9 +15,9 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-    //   'mochatests/*.spec.js'
-      'dist/*.js',
-      'tests/*.js',
+       'mochatests/*.spec.js'
+    //   'dist/*.js',
+    //   'tests/*.js',
     ],
 
 
